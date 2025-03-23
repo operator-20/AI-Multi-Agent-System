@@ -129,9 +129,7 @@ graph TD
 - File management
 - Console display
 
-## Author
 
-Y RAGHUVAMSHI REDDY
 
 ## License
 
